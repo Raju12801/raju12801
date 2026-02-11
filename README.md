@@ -8,7 +8,7 @@
 - 🔭 I’m currently working as an **AIML Trainee** at **NIELIT Chandigarh (Ropar Campus)**  
 - 🌱 I’m currently learning **Kotlin** and improving my **Android Development** skills  
 - 👯 I’m looking to collaborate on **Application Development & AI-based Projects**  
-- 🤔 I’m looking for help with **Dart & Flutter**  
+- 🤔 I’m looking for help with ** Flutter**  
 - 💬 Ask me about **App Development, Full Stack Development, Firebase, Kotlin**  
 - 😄 Pronouns: **Raju**  
 - ⚡ Fun fact: *I just hate being a bad boy 😄*  
