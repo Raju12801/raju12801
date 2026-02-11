@@ -74,7 +74,7 @@
 ---
 
 ## 📫 Connect With Me  
-- 📧 Email: **rajuraz12801@gmail.com**  
+- 📧 Email: **24mca00py0011@pondiuni.ac.in**  
 - 💼 LinkedIn: [Raju Kumar Paswan](https://www.linkedin.com/in/raju-kumar-676447378/)  
 - 🐙 GitHub: [Raju12801](https://github.com/Raju12801)  
 
