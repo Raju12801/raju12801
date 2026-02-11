@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Raju Kumar Paswan  
 
-🚀 **AIML Trainee | App Developer | Full Stack Developer | AI Enthusiast**  
+🚀Full Stack Developer | Web Developer | App Developer | AI Enthusiast  
 
 ---
 
@@ -33,7 +33,7 @@
 `AI/ML Basics` `OOP` `DSA`  
 
 **Tools:**  
-`Git` `GitHub` `VS Code` `Postman`  
+`Git` `GitHub` `VS Code` 
 
 ---
 
